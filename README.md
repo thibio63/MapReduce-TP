@@ -9,5 +9,5 @@ Le but du jeu est de trouver un mot appartenant à la catégorie proposée et co
 
 ## Etape
 
-1. Developpeer la fonction qui va générer une letrre entre A et Z.
+1. Developper la fonction qui va générer une letrre entre A et Z.
 2. Inclure une base de données MySQL avec plein de mots vérifier si les mots de l'utilisateur est correcte.
